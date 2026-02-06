@@ -27,3 +27,9 @@ If everything from the Installation was done correctly it should check if the in
 
 # Info
 The script was made for the Gentoo but it will or should work on every other distro and also the updater script doesn't launch the waterfox so it's gonna be like you having everytime you boot the latest version of waterfox. It doesn't even require sudo
+i just made it cuz the binary waterfox is much faster than the manually compiled firefox but remember it cant be flatpak version of it. I'm suggesting you so if you download the app that you're gonna use a lot dont install it from the flatpak
+
+
+
+# Why to use it
+Main reason that makes users use waterfox it's its clean minimalistic UI and the fact that it is lightweight and doesn't take much RAM and also boots fast .BUT if you want to have that with auto updates you cant install the waterfox from flatpak because it simply runs in flatpak runtime that slows down and increase the usage to that point that its way slower than firefox installed from package manager like APT, PACMAN, Emerge others. The script downloades the newest tarball from official waterfox resouces site the untar it and makes a symlink so you can run it via "waterfox" in terminal and it shows as the app in your desktop environment
