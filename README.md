@@ -1,4 +1,4 @@
-# WaterfoxAutoUpdater
+# WaterfoxAutoUpdater Linux x86_64
 auto updater and installer to waterfox
 # Dependiences:
  -Tar
